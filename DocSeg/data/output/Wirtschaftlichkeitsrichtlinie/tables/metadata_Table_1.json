@@ -1,0 +1,10 @@
+{
+    "label": "Table",
+    "normalized_bounding_box": [
+        0.1171999559661773,
+        0.10540449869026226,
+        0.8809107846723943,
+        0.5790954041858166
+    ],
+    "image_path": "data/output\\Wirtschaftlichkeitsrichtlinie\\tables\\extracted_Table_1.png"
+}

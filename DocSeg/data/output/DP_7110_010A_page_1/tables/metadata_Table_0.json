@@ -1,0 +1,10 @@
+{
+    "label": "Table",
+    "normalized_bounding_box": [
+        0.5764822908007105,
+        0.06634212263938248,
+        0.9648394694207225,
+        0.24833675937399796
+    ],
+    "image_path": "data/output\\DP_7110_010A_page_1\\tables\\extracted_Table_0.png"
+}

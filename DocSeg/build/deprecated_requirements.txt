@@ -1,0 +1,17 @@
+chardet==4.0.0
+easyocr==1.7.1
+matplotlib==3.8.0
+matplotlib==3.7.2
+numpy==1.24.3
+openai==0.28.0
+pandas==2.0.3
+pdf2image==1.17.0
+Pillow==9.4.0
+Pillow==9.5.0
+Pillow==10.4.0
+pytesseract==0.3.10
+torch==2.4.0
+transformers==4.40.0.dev0
+transformers==4.32.1
+transformers==4.37.2
+transformers==4.45.0.dev0

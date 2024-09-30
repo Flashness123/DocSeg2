@@ -1,0 +1,10 @@
+{
+    "label": "Text",
+    "normalized_bounding_box": [
+        0.1261815742423527,
+        0.9026598072092775,
+        0.32051776989709213,
+        0.9164257269733326
+    ],
+    "image_path": "data/output\\Wirtschaftlichkeitsrichtlinie\\texts\\extracted_Text_2.png"
+}

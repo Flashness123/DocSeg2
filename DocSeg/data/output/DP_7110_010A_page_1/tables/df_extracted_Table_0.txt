@@ -1,0 +1,9 @@
+                  Mast-Nr. 010A  Gestange:     D48-2002-11               Typ: TD S3 28,50               Typ: TD S3 28,50               Typ: TD S3 28,50 
+                  Mast-Nr. 010A   be [m] =            5,82                 BZ [mm/m] = 80                 BZ [mm/m] = 80                 BZ [mm/m] = 80 
+     fortl. Lange Mastmitte [m]      570,2        Hohe EOK  Mastmitte Uber NN [m]: 106,30  Mastmitte Uber NN [m]: 106,30  Mastmitte Uber NN [m]: 106,30 
+theor. Hdhe-EOK des 0-Mastfu@es       0,17                                        Mastfu&                                                               
+        Uber Mastmitte Ah (m) =                          1                              2                              3                              4 
+       Hohe iiber EOK Mastmitte        [m]  +         0,08                          -0,05                           0,07                           0,17 
+     Hohe iber EQK Ah 0-Mastfu@      = [m]  +        -0,09                          -0,22                          -0,09                           0,00 
+  erforderliche SchragfiiRe [m]                       0,00                           0,00                           0,00                           0,00 
+    DiagonalmaR D/2 Mastfu& [m]                       4,11                           4,11                           4,11                           4,11 

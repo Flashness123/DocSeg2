@@ -1,0 +1,10 @@
+{
+    "label": "Text",
+    "normalized_bounding_box": [
+        0.5684885304092352,
+        0.9872862125574497,
+        0.8563994807804942,
+        0.996162848372702
+    ],
+    "image_path": "data/output\\DP_7110_010A_page_1\\texts\\extracted_Text_1.png"
+}
